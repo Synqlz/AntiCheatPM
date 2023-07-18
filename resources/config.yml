@@ -1,0 +1,27 @@
+detections:
+  auto-click:
+    enabled: true
+    logging: true
+    minimum_points_to_log: 10
+    minimum_points_to_kick: 100
+  no-packet:
+    enabled: true
+    logging: true
+    minimum_points_to_log: 10
+    minimum_points_to_kick: 100
+  reach:
+    enabled: true
+    logging: true
+    minimum_points_to_log: 10
+    minimum_points_to_kick: 100
+  timer:
+    enabled: true
+    logging: true
+    minimum_points_to_log: 10
+    minimum_points_to_kick: 100
+  jetpack:
+    enabled: true
+    logging: true
+    minimum_points_to_log: 10
+    minimum_points_to_kick: 100
+

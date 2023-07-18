@@ -1,0 +1,10 @@
+main: synqlz\anticheat\AntiCheat
+name: AntiCheat
+version: 0.0.1
+api: 4.0.0
+author: Synqlz
+
+permissions:
+  synqlz.command.anticheat:
+    default: op
+    description: "Allows you to use the /anticheat command"
